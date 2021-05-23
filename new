@@ -1,0 +1,179 @@
+"C:\Program Files\Java\jdk-11.0.4\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\lib\idea_rt.jar=53939:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\mm_notebook_neu\IdeaProjects\AoC_2015_22_WizardSimulator20XX\target\classes net.mirwaldt.aoc.year2015.day22.WizardSimulator
+1355
+-- Player turn --
+- Player has 49 hit points, 0 armor, 500 mana, 0 payedMana
+- Boss has 51 hit points
+Player casts SHIELD
+Player attacks Boss with damage 0
+
+-- Boss turn --
+- Player has 48 hit points, 7 armor, 387 mana, 113 payedMana
+- Boss has 51 hit points
+SHIELD active.
+Player attacks Boss with damage 0
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 46 hit points, 7 armor, 387 mana, 113 payedMana
+- Boss has 51 hit points
+SHIELD active.
+Player casts MAGIC_MISSILE
+Player attacks Boss with damage 4
+
+-- Boss turn --
+- Player has 45 hit points, 7 armor, 334 mana, 166 payedMana
+- Boss has 47 hit points
+SHIELD active.
+Player attacks Boss with damage 0
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 43 hit points, 7 armor, 334 mana, 166 payedMana
+- Boss has 47 hit points
+SHIELD active.
+Player casts RECHARGE
+Player attacks Boss with damage 0
+
+-- Boss turn --
+- Player has 42 hit points, 7 armor, 105 mana, 395 payedMana
+- Boss has 47 hit points
+SHIELD active.
+RECHARGE active.
+Player attacks Boss with damage 0
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 40 hit points, 7 armor, 206 mana, 395 payedMana
+- Boss has 47 hit points
+SHIELD active.
+RECHARGE active.
+Player casts POISON
+Player attacks Boss with damage 0
+
+-- Boss turn --
+- Player has 39 hit points, 0 armor, 134 mana, 568 payedMana
+- Boss has 47 hit points
+POISON active.
+RECHARGE active.
+Player attacks Boss with damage 3
+Boss attacks Player with damage 9
+
+-- Player turn --
+- Player has 30 hit points, 0 armor, 235 mana, 568 payedMana
+- Boss has 44 hit points
+POISON active.
+RECHARGE active.
+Player casts SHIELD
+Player attacks Boss with damage 3
+
+-- Boss turn --
+- Player has 29 hit points, 7 armor, 223 mana, 681 payedMana
+- Boss has 41 hit points
+SHIELD active.
+POISON active.
+RECHARGE active.
+Player attacks Boss with damage 3
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 27 hit points, 7 armor, 324 mana, 681 payedMana
+- Boss has 38 hit points
+SHIELD active.
+POISON active.
+Player casts RECHARGE
+Player attacks Boss with damage 3
+
+-- Boss turn --
+- Player has 26 hit points, 7 armor, 95 mana, 910 payedMana
+- Boss has 35 hit points
+SHIELD active.
+POISON active.
+RECHARGE active.
+Player attacks Boss with damage 3
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 24 hit points, 7 armor, 196 mana, 910 payedMana
+- Boss has 32 hit points
+SHIELD active.
+POISON active.
+RECHARGE active.
+Player casts MAGIC_MISSILE
+Player attacks Boss with damage 7
+
+-- Boss turn --
+- Player has 23 hit points, 7 armor, 244 mana, 963 payedMana
+- Boss has 25 hit points
+SHIELD active.
+RECHARGE active.
+Player attacks Boss with damage 0
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 21 hit points, 7 armor, 345 mana, 963 payedMana
+- Boss has 25 hit points
+SHIELD active.
+RECHARGE active.
+Player casts POISON
+Player attacks Boss with damage 0
+
+-- Boss turn --
+- Player has 20 hit points, 0 armor, 273 mana, 1136 payedMana
+- Boss has 25 hit points
+POISON active.
+RECHARGE active.
+Player attacks Boss with damage 3
+Boss attacks Player with damage 9
+
+-- Player turn --
+- Player has 11 hit points, 0 armor, 374 mana, 1136 payedMana
+- Boss has 22 hit points
+POISON active.
+Player casts SHIELD
+Player attacks Boss with damage 3
+
+-- Boss turn --
+- Player has 10 hit points, 7 armor, 261 mana, 1249 payedMana
+- Boss has 19 hit points
+SHIELD active.
+POISON active.
+Player attacks Boss with damage 3
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 8 hit points, 7 armor, 261 mana, 1249 payedMana
+- Boss has 16 hit points
+SHIELD active.
+POISON active.
+Player casts MAGIC_MISSILE
+Player attacks Boss with damage 7
+
+-- Boss turn --
+- Player has 7 hit points, 7 armor, 208 mana, 1302 payedMana
+- Boss has 9 hit points
+SHIELD active.
+POISON active.
+Player attacks Boss with damage 3
+Boss attacks Player with damage 2
+
+-- Player turn --
+- Player has 5 hit points, 7 armor, 208 mana, 1302 payedMana
+- Boss has 6 hit points
+SHIELD active.
+POISON active.
+Player casts MAGIC_MISSILE
+Player attacks Boss with damage 7
+
+1355
+
+Process finished with exit code 0
+
+1362
+1309
+
+1408
+1937
+
+1501
+1408
+1295
